@@ -1,0 +1,108 @@
+{
+  "nombre": "UNJFSC ordinario",
+  "version": 1,
+  "areas": [
+    {
+      "codigo": "COMUNICACION",
+      "nombre": "Comunicación en Lengua Materna",
+      "nro_preguntas": 20,
+      "puntos": {
+        "A": "2",
+        "B": "2",
+        "C": "4",
+        "D": "3"
+      }
+    },
+    {
+      "codigo": "MATEMATICA",
+      "nombre": "Matemática Razonada",
+      "nro_preguntas": 20,
+      "puntos": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "2"
+      }
+    },
+    {
+      "codigo": "CTA",
+      "nombre": "Ciencia, Tecnología y Ambiente",
+      "nro_preguntas": 20,
+      "puntos": {
+        "A": "3",
+        "B": "4",
+        "C": "1",
+        "D": "1"
+      }
+    },
+    {
+      "codigo": "CIENCIAS_SOCIALES",
+      "nombre": "Ciencias Sociales, Persona y Relaciones Humanas",
+      "nro_preguntas": 20,
+      "puntos": {
+        "A": "1",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      }
+    }
+  ],
+  "grupos": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "penalizacion": {
+    "modo": "FIJA",
+    "valor": "0.1"
+  },
+  "puntos_blanco": "0",
+  "puntaje_minimo": "11",
+  "truncar_en_cero": false,
+  "decimales": null,
+  "carreras": {
+    "A": [
+      "Matemática Aplicada",
+      "Estadística e Informática",
+      "Física",
+      "Ingeniería Agronómica",
+      "Ingeniería Ambiental",
+      "Ingeniería en Industrias Alimentarias",
+      "Ingeniería Zootécnica",
+      "Ingeniería Civil",
+      "Ingeniería Industrial",
+      "Ingeniería de Sistemas",
+      "Ingeniería Informática",
+      "Ingeniería Electrónica",
+      "Ingeniería Pesquera",
+      "Ingeniería Acuícola",
+      "Ingeniería Química",
+      "Ingeniería Metalúrgica"
+    ],
+    "B": [
+      "Enfermería",
+      "Medicina Humana",
+      "Bromatología y Nutrición",
+      "Educación Física y Deportes",
+      "Biología con mención en Biotecnología"
+    ],
+    "C": [
+      "Ciencias de la Comunicación",
+      "Trabajo Social",
+      "Sociología",
+      "Derecho y Ciencias Políticas",
+      "Educación Inicial y Arte",
+      "Educación Primaria y Problemas del Aprendizaje",
+      "Educación Secundaria",
+      "Educación Tecnológica"
+    ],
+    "D": [
+      "Administración",
+      "Gestión en Turismo y Hotelería",
+      "Negocios Internacionales",
+      "Ciencias Contables y Financieras",
+      "Economía y Finanzas"
+    ]
+  }
+}

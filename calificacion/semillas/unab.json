@@ -1,0 +1,13 @@
+{
+  "nombre": "UNAB ordinario",
+  "version": 1,
+  "areas": [
+    {"codigo": "GENERAL", "nombre": "Examen general", "nro_preguntas": 60, "puntos": "20"}
+  ],
+  "grupos": [],
+  "penalizacion": {"modo": "FIJA", "valor": "0.5625"},
+  "puntos_blanco": "0",
+  "puntaje_minimo": "500",
+  "truncar_en_cero": false,
+  "decimales": null
+}
